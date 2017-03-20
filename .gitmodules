@@ -1,6 +1,0 @@
-[submodule "wp-content/plugins/pantheon-hud"]
-	path = wp-content/plugins/pantheon-hud
-	url = git@github.com:pantheon-systems/pantheon-hud.git
-[submodule "wp"]
-	path = wp
-	url = git@github.com:WordPress/WordPress.git

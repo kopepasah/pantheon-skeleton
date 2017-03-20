@@ -1,0 +1,16 @@
+{
+  "name": "bolt",
+  "version": "0.1.0",
+  "description": "WordPress scaffolding to develop, build and deploy to Pantheon.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kopepasah/bolt.git"
+  },
+  "author": "Justin Kopepasah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kopepasah/bolt/issues"
+  },
+  "homepage": "https://github.com/kopepasah/bolt",
+  "devDependencies": {}
+}
